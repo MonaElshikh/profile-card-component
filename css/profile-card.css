@@ -36,7 +36,7 @@ body {
 }
 .profile-card .header > img:last-child {
   position: absolute;
-  top: 90%;
+  top: 95%;
   left: 50%;
   transform: translate(-50px, -50px);
   border: solid 4px white;
