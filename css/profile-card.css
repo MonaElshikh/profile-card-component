@@ -55,6 +55,7 @@ body {
 .profile-card .body > h1 > span,
 .profile-card .body > span {
   color: var(--text-color);
+  font-weight: normal;
 }
 .profile-card .body > span {
   display: block;
