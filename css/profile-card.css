@@ -47,16 +47,16 @@ body {
   border-bottom: 1px solid #ccc;
   padding-bottom: 20px;
 }
-.profile-card .body > span:first-child {
+.profile-card .body > h1 {
   font-weight: bold;
   font-size: 18px;
   padding-right: 10px;
 }
-.profile-card .body > span:nth-child(2),
-.profile-card .body > span:last-child {
+.profile-card .body > h1 > span,
+.profile-card .body > span {
   color: var(--text-color);
 }
-.profile-card .body > span:last-child {
+.profile-card .body > span {
   display: block;
   margin-top: 15px;
 }
